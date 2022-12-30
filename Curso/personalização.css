@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+}
+#titulo{
+
+    border: 5px dotted  rgb(171, 171, 255)
+    
+
+}
+.livro1{
+    color: lightskyblue;
+}
+.livro1:hover{
+    color: brown;
+}
+.textoale{
+    color: rgb(62, 48, 48);
+    font-size: 17px;
+ letter-spacing: 0,5px;
+ word-spacing: 2px;
+ line-height: 20px;
+ text-shadow: 2px 5px 10px rgb(160, 160, 252);
+}
+.primeiros{
+
+    color: rgb(52, 83, 141);
+    font-size: 20px;
+}
+title{
+    color: rgb(113, 108, 108);
+}
+.insta{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.insta:hover{
+    color: darkblue;
+   text-decoration: line-through;
+}
+.Expli{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
